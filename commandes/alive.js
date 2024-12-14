@@ -77,7 +77,7 @@ else {
         if(!superUser) { repondre("ATI ALIVE MKUU😂") ; return};
 
       await   repondre("SI ATA WE UNAJUA ENZO MD HAIEZI LALA NO MATTER WHAT");
-         repondre("EBU TINGIZA KICHWA :)")
+         repondre("EBU MAINTAIN HIVO HIVO :)")
      }
  } else {
 
